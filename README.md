@@ -1,3 +1,3 @@
 # Helix.play.io
 
-it's a Online 2d game
+Let's Play Here : https://sweety-vigneshg.github.io/Helix.play.io/
